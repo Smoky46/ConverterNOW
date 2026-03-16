@@ -1,0 +1,1242 @@
+{
+  "@@locale": "hu",
+  "@@translator": {
+    "name": "Zoltán Somogyi",
+    "email": "somogyi.zoltan1@gmail.com",
+    "donation": "Szia! Hálásan köszönöm, ha pénzadományoddal támogatod a magyar nyelvi fordításomat, melyet ezen a linken megtehetsz: https://revolut.me/smoky56 A megjegyzés mezőbe annyit írj, hogy \"Converter Now fordítás\"."
+  },
+
+  "appName": "Converter NOW",
+  "@appName": {
+    "description": "Az alkalmazás neve"
+  },
+
+  "reorder": "Átrendezés",
+  "@reorder": {
+    "description": "Elemek sorrendjének módosítása"
+  },
+
+  "myOrdering": "Saját sorrend",
+  "@myOrdering": {
+    "description": "Felhasználó által beállított sorrend"
+  },
+
+  "about": "Névjegy",
+  "@about": {
+    "description": "Információ az alkalmazásról"
+  },
+
+  "lastCurrenciesUpdate": "Utolsó frissítés: ",
+  "@lastCurrenciesUpdate": {
+    "description": "Devizaárfolyamok utolsó frissítésének ideje, utána időpont kerül"
+  },
+
+  "today": "ma",
+  "@today": {
+    "description": "A mai nap rövid megnevezése"
+  },
+
+  "enableDarkTheme": "Sötét téma engedélyezése",
+  "@enableDarkTheme": {
+    "description": "Kapcsoló a sötét téma bekapcsolásához"
+  },
+
+  "settings": "Beállítások",
+  "@settings": {
+    "description": "Beállítások oldal címe"
+  },
+
+  "menu": "Menü",
+  "@menu": {
+    "description": "Főmenü megnevezése"
+  },
+
+  "donation": "Támogatás",
+  "@donation": {
+    "description": "Támogatási / adományozási menüpont"
+  },
+
+  "buyMeACoffee": "Hívj meg egy kávéra",
+  "@buyMeACoffee": {
+    "description": "Adomány gomb szövege"
+  },
+
+  "donationDialog": "Szia! Ahogy talán tudod, ez az alkalmazás ingyenes és nyílt forráskódú. Ez azt jelenti, hogy ingyen használhatod, illetve másolhatod és módosíthatod a forráskódot. A fejlesztő ezért nem kap semmilyen ellenszolgáltatást. Ha te is hiszel ebben a projektben, és szeretnél új funkciókat látni, kérlek fontold meg, hogy meghívsz egy kávéra.",
+  "@donationDialog": {
+    "description": "Magyarázó szöveg az adományozó párbeszédablakban"
+  },
+
+  "drawerLogo": "Oldalsáv logó",
+  "@drawerLogo": {
+    "description": "Az oldalsó navigációs sáv logójának beállítása"
+  },
+
+  "rateApp": "Alkalmazás értékelése",
+  "@rateApp": {
+    "description": "Gomb az app értékeléséhez"
+  },
+
+  "repoGithub": "GitHub tároló megnyitása",
+  "@repoGithub": {
+    "description": "Link az alkalmazás GitHub repójához"
+  },
+
+  "contributeTranslating": "Közreműködés az app fordításában",
+  "@contributeTranslating": {
+    "description": "Felhasználó felhívása fordításban való segítségre"
+  },
+
+  "search": "Keresés",
+  "@search": {
+    "description": "Keresőmező címkéje"
+  },
+
+  "clearAll": "Összes törlése",
+  "@clearAll": {
+    "description": "Összes adat / mező törlése"
+  },
+
+  "calculator": "Számológép",
+  "@calculator": {
+    "description": "Számológép funkció megnevezése"
+  },
+
+  "significantFigures": "Jelentős számjegyek",
+  "@significantFigures": {
+    "description": "Szignifikáns számjegyek beállítása"
+  },
+
+  "removeTrailingZeros": "Záró nullák eltávolítása",
+  "@removeTrailingZeros": {
+    "description": "Felesleges nullák eltüntetése a szám végéről"
+  },
+
+  "longPressAdvice": "Elemek mozgatásához tartsd hosszan lenyomva",
+  "@longPressAdvice": {
+    "description": "Tipp az elemek hosszú nyomással történő áthelyezéséhez"
+  },
+
+  "back": "Vissza",
+  "@back": {
+    "description": "Visszalépés gomb szövege"
+  },
+
+  "save": "Mentés",
+  "@save": {
+    "description": "Mentés gomb szövege"
+  },
+
+  "invalidCharacters": "Hiba, érvénytelen karakterek",
+  "@invalidCharacters": {
+    "description": "Hibaüzenet érvénytelen karakterek esetén"
+  },
+
+  "theme": "Téma",
+  "@theme": {
+    "description": "Téma beállítás címe"
+  },
+
+  "dark": "Sötét",
+  "@dark": {
+    "description": "Sötét téma opció"
+  },
+
+  "light": "Világos",
+  "@light": {
+    "description": "Világos téma opció"
+  },
+
+  "system": "Rendszer alapértelmezett",
+  "@system": {
+    "description": "Rendszer szerinti téma használata"
+  },
+
+  "pureBlackTheme": "Tiszta fekete téma",
+  "@pureBlackTheme": {
+    "description": "AMOLED kijelzőhöz való teljesen fekete téma"
+  },
+
+  "propertySelectionOnStartup": "Tulajdonság választása indításkor",
+  "@propertySelectionOnStartup": {
+    "description": "Indításkor megjelenő tulajdonság-választó opció címe"
+  },
+
+  "propertySelectionOnStartupSubtitle": "Kis kijelzős eszközökön indításkor jelenjen meg a tulajdonság-választó oldal",
+  "@propertySelectionOnStartupSubtitle": {
+    "description": "Magyarázó szöveg a tulajdonság-választó indításkori megjelenítéséhez"
+  },
+
+  "copy": "Másolás",
+  "@copy": {
+    "description": "Másolás gomb szövege"
+  },
+
+  "paste": "Beillesztés",
+  "@paste": {
+    "description": "Beillesztés gomb szövege"
+  },
+
+  "more": "Továbbiak",
+  "@more": {
+    "description": "További opciók menü"
+  },
+
+  "language": "Nyelv",
+  "@language": {
+    "description": "Nyelv beállítás címe"
+  },
+
+  "reorderProperties": "Tulajdonságok átrendezése",
+  "@reorderProperties": {
+    "description": "Tulajdonság-lista sorrendjének módosítása"
+  },
+
+  "reorderUnits": "Mértékegységek átrendezése",
+  "@reorderUnits": {
+    "description": "Mértékegység-lista sorrendjének módosítása"
+  },
+
+  "chooseProperty": "Válassz egy tulajdonságot",
+  "@chooseProperty": {
+    "description": "Felirat a tulajdonság-választó listán"
+  },
+
+  "reorderProperty": "{property} átrendezése",
+  "@reorderProperty": {
+    "description": "Konkrét tulajdonság mértékegységeinek átrendezése",
+    "placeholders": {
+      "property": {
+        "type": "String",
+        "example": "Hosszúság"
+      }
+    }
+  },
+
+  "otherPlatforms": "Converter NOW más platformokra",
+  "@otherPlatforms": {
+    "description": "Linkek a Converter NOW más platformos verzióihoz"
+  },
+
+  "sourceCode": "Forráskód",
+  "@sourceCode": {
+    "description": "Forráskódra mutató menüpont"
+  },
+
+  "undoClearAllMessage": "Minden törölve. Visszavonod?",
+  "@undoClearAllMessage": {
+    "description": "Értesítés a teljes törlés visszavonásáról"
+  },
+
+  "undo": "Visszavonás",
+  "@undo": {
+    "description": "Visszavonás gomb szövege"
+  },
+
+  "routeError1": "Ez az oldal nem létezik",
+  "@routeError1": {
+    "description": "Hibaüzenet nem létező oldal esetén"
+  },
+
+  "routeError2": "Menj vissza az első oldalra",
+  "@routeError2": {
+    "description": "Navigációs javaslat hibaoldalon"
+  },
+
+  "ok": "OK",
+  "@ok": {
+    "description": "Megerősítő gomb"
+  },
+
+  "revokeInternetAccess": "Internet-hozzáférés visszavonása",
+  "@revokeInternetAccess": {
+    "description": "Beállítás az internetelérés letiltásához"
+  },
+
+  "revokeInternetExplanation": "Ez az alkalmazás naponta egyszer, megnyitáskor használja az internetet a devizaárfolyamok frissítéséhez. Ehhez csak néhány kilobájt letöltés szükséges. Ha nincs szükséged erre a funkcióra, engedélyezheted ezt az opciót, hogy az alkalmazás ne férjen hozzá az internethez.",
+  "@revokeInternetExplanation": {
+    "description": "Magyarázat az internet-hozzáférés letiltásáról"
+  },
+
+  "useDeviceColor": "Eszköz színének használata",
+  "@useDeviceColor": {
+    "description": "Rendszer színpaletta használata"
+  },
+
+  "pickColor": "Szín kiválasztása",
+  "@pickColor": {
+    "description": "Színválasztó megnyitása"
+  },
+
+  "themeColor": "Téma színe",
+  "@themeColor": {
+    "description": "Aktív téma színe"
+  },
+
+  "appearance": "Megjelenés",
+  "@appearance": {
+    "description": "Megjelenés / kinézet beállítások csoport"
+  },
+
+  "conversions": "Átváltások",
+  "@conversions": {
+    "description": "Átváltások fő felület címe"
+  },
+
+  "findOutMore": "Tudj meg többet",
+  "@findOutMore": {
+    "description": "Link további információkhoz"
+  },
+
+  "hideUnits": "Mértékegységek elrejtése",
+  "@hideUnits": {
+    "description": "Mértékegységek elrejtése a listából"
+  },
+
+  "visibleUnits": "{property}, látható mértékegységek",
+  "@visibleUnits": {
+    "description": "Felirat a látható mértékegységekről",
+    "placeholders": {
+      "property": {
+        "type": "String",
+        "example": "Hosszúság"
+      }
+    }
+  },
+
+  "hiddenUnits": "Rejtett mértékegységek",
+  "@hiddenUnits": {
+    "description": "Rejtett mértékegységek csoport címe"
+  },
+
+  "selectAll": "Összes kijelölése",
+  "@selectAll": {
+    "description": "Összes elem kijelölése"
+  },
+
+  "unselectAll": "Kijelölés törlése",
+  "@unselectAll": {
+    "description": "Összes kijelölés megszüntetése"
+  },
+
+  "backupAndRestore": "Biztonsági mentés és visszaállítás",
+  "@backupAndRestore": {
+    "description": "Beállítások mentése és visszaállítása"
+  },
+
+  "exportSettings": "Beállítások exportálása",
+  "@exportSettings": {
+    "description": "Beállítások exportálása fájlba"
+  },
+
+  "importSettings": "Beállítások importálása",
+  "@importSettings": {
+    "description": "Beállítások importálása fájlból"
+  },
+
+  "clearSettings": "Összes beállítás törlése",
+  "@clearSettings": {
+    "description": "Minden beállítás törlése"
+  },
+
+  "exportSuccess": "Beállítások sikeresen exportálva",
+  "@exportSuccess": {
+    "description": "Sikeres exportálás visszajelzése"
+  },
+
+  "importSuccess": "Beállítások sikeresen importálva",
+  "@importSuccess": {
+    "description": "Sikeres importálás visszajelzése"
+  },
+
+  "problemImportFile": "Hiba történt a fájl importálása közben",
+  "@problemImportFile": {
+    "description": "Hibaüzenet sikertelen import esetén"
+  },
+
+  "relatedSettings": "Kapcsolódó beállítások",
+  "@relatedSettings": {
+    "description": "Kapcsolódó beállításokat tartalmazó szekció címe"
+  },
+
+  "reason": "Ok",
+  "@reason": {
+    "description": "Hiba vagy művelet oka"
+  },
+
+  "importError": "Importálási hiba",
+  "@importError": {
+    "description": "Általános import hiba címe"
+  },
+
+  "confirmationClear": "Biztosan törlöd az összes beállítást? Ez a művelet nem vonható vissza.",
+  "@confirmationClear": {
+    "description": "Megerősítő szöveg a beállítások törléséhez"
+  },
+
+  "cancel": "Mégse",
+  "@cancel": {
+    "description": "Művelet megszakítása"
+  },
+
+  "length": "Hosszúság",
+  "@length": {
+    "description": "Hosszúság mértékegység-csoport neve"
+  },
+
+  "area": "Terület",
+  "@area": {
+    "description": "Terület mértékegység-csoport neve"
+  },
+
+  "volume": "Térfogat",
+  "@volume": {
+    "description": "Térfogat mértékegység-csoport neve"
+  },
+
+  "time": "Idő",
+  "@time": {
+    "description": "Idő mértékegység-csoport neve"
+  },
+
+  "temperature": "Hőmérséklet",
+  "@temperature": {
+    "description": "Hőmérséklet mértékegység-csoport neve"
+  },
+
+  "speed": "Sebesség",
+  "@speed": {
+    "description": "Sebesség mértékegység-csoport neve"
+  },
+
+  "siPrefixes": "SI előtag",
+  "@siPrefixes": {
+    "description": "SI prefixumok csoport neve"
+  },
+
+  "mass": "Tömeg",
+  "@mass": {
+    "description": "Tömeg mértékegység-csoport neve"
+  },
+
+  "pressure": "Nyomás",
+  "@pressure": {
+    "description": "Nyomás mértékegység-csoport neve"
+  },
+
+  "energy": "Energia",
+  "@energy": {
+    "description": "Energia mértékegység-csoport neve"
+  },
+
+  "angles": "Szögek",
+  "@angles": {
+    "description": "Szög mértékegység-csoport neve"
+  },
+
+  "currencies": "Valuták",
+  "@currencies": {
+    "description": "Valuta átváltások csoportja"
+  },
+
+  "shoeSize": "Cipőméret",
+  "@shoeSize": {
+    "description": "Cipőméret konverziók csoportja"
+  },
+
+  "digitalData": "Digitális adatok",
+  "@digitalData": {
+    "description": "Digitális adatmennyiség mértékegység-csoportja"
+  },
+
+  "power": "Teljesítmény",
+  "@power": {
+    "description": "Teljesítmény mértékegység-csoport neve"
+  },
+
+  "density": "Sűrűség",
+  "@density": {
+    "description": "Sűrűség mértékegység-csoport neve"
+  },
+
+  "torque": "Nyomaték",
+  "@torque": {
+    "description": "Nyomaték mértékegység-csoport neve"
+  },
+
+  "force": "Erő",
+  "@force": {
+    "description": "Erő mértékegység-csoport neve"
+  },
+
+  "fuelConsumption": "Üzemanyag-fogyasztás",
+  "@fuelConsumption": {
+    "description": "Fogyasztás mértékegység-csoport neve"
+  },
+
+  "numeralSystems": "Számrendszerek",
+  "@numeralSystems": {
+    "description": "Számrendszerek (bináris, hex, stb.) csoport neve"
+  },
+
+  "meters": "Méter",
+  "@meters": { "description": "Hosszúság mértékegység: méter" },
+
+  "centimeters": "Centiméter",
+  "@centimeters": { "description": "Hosszúság mértékegység: centiméter" },
+
+  "inches": "Hüvelyk",
+  "@inches": { "description": "Hosszúság mértékegység: hüvelyk" },
+
+  "feet": "Láb",
+  "@feet": { "description": "Hosszúság mértékegység: láb" },
+
+  "nauticalMiles": "Tengeri mérföld",
+  "@nauticalMiles": { "description": "Hosszúság mértékegység: tengeri mérföld" },
+
+  "yards": "Yard",
+  "@yards": { "description": "Hosszúság mértékegység: yard" },
+
+  "miles": "Mérföld",
+  "@miles": { "description": "Hosszúság mértékegység: mérföld" },
+
+  "millimeters": "Milliméter",
+  "@millimeters": { "description": "Hosszúság mértékegység: milliméter" },
+
+  "micrometers": "Mikrométer",
+  "@micrometers": { "description": "Hosszúság mértékegység: mikrométer" },
+
+  "nanometers": "Nanométer",
+  "@nanometers": { "description": "Hosszúság mértékegység: nanométer" },
+
+  "angstroms": "Ångström",
+  "@angstroms": { "description": "Hosszúság mértékegység: Ångström" },
+
+  "picometers": "Pikométer",
+  "@picometers": { "description": "Hosszúság mértékegység: pikométer" },
+
+  "kilometers": "Kilométer",
+  "@kilometers": { "description": "Hosszúság mértékegység: kilométer" },
+
+  "astronomicalUnits": "Csillagászati egység",
+  "@astronomicalUnits": { "description": "Hosszúság mértékegység: csillagászati egység" },
+
+  "lightYears": "Fényév",
+  "@lightYears": { "description": "Hosszúság mértékegység: fényév" },
+
+  "parsec": "Parszek",
+  "@parsec": { "description": "Hosszúság mértékegység: parszek" },
+
+  "mils": "Mil",
+  "@mils": { "description": "Hosszúság mértékegység: mil" },
+
+  "feetUsSurvey": "Láb (US felmérés)",
+  "@feetUsSurvey": { "description": "Hosszúság mértékegység: láb (US survey)" },
+
+  "squareMeters": "Négyzetméter",
+  "@squareMeters": { "description": "Terület mértékegység: négyzetméter" },
+
+  "squareCentimeters": "Négyzetcentiméter",
+  "@squareCentimeters": { "description": "Terület mértékegység: négyzetcentiméter" },
+
+  "squareInches": "Négyzethüvelyk",
+  "@squareInches": { "description": "Terület mértékegység: négyzethüvelyk" },
+
+  "squareFeet": "Négyzetláb",
+  "@squareFeet": { "description": "Terület mértékegység: négyzetláb" },
+
+  "squareMiles": "Négyzetmérföld",
+  "@squareMiles": { "description": "Terület mértékegység: négyzetmérföld" },
+
+  "squareYard": "Négyzetyard",
+  "@squareYard": { "description": "Terület mértékegység: négyzetyard" },
+
+  "squareMillimeters": "Négyzetmilliméter",
+  "@squareMillimeters": { "description": "Terület mértékegység: négyzetmilliméter" },
+
+  "squareKilometers": "Négyzetkilométer",
+  "@squareKilometers": { "description": "Terület mértékegység: négyzetkilométer" },
+
+  "hectares": "Hektár",
+  "@hectares": { "description": "Terület mértékegység: hektár" },
+
+  "acres": "Hold (acre)",
+  "@acres": { "description": "Terület mértékegység: acre" },
+
+  "are": "Ár",
+  "@are": { "description": "Terület mértékegység: ár" },
+
+  "squareFeetUsSurvey": "Négyzetláb (US felmérés)",
+  "@squareFeetUsSurvey": { "description": "Terület mértékegység: négyzetláb (US survey)" },
+
+  "gramsPerCubicCentimeter": "Gramm köbcentiméterenként",
+  "@gramsPerCubicCentimeter": { "description": "Sűrűség: g/cm³" },
+
+  "gramsPerLiter": "Gramm literenként",
+  "@gramsPerLiter": { "description": "Sűrűség: g/L" },
+
+  "gramsPerMilliliter": "Gramm milliliterenként",
+  "@gramsPerMilliliter": { "description": "Sűrűség: g/mL" },
+
+  "gramsPerDeciliter": "Gramm deciliterenként",
+  "@gramsPerDeciliter": { "description": "Sűrűség: g/dL" },
+
+  "kilogramsPerLiter": "Kilogramm literenként",
+  "@kilogramsPerLiter": { "description": "Sűrűség: kg/L" },
+
+  "kilogramsPerCubicMeter": "Kilogramm köbméterenként",
+  "@kilogramsPerCubicMeter": { "description": "Sűrűség: kg/m³" },
+
+  "milligramsPerLiter": "Milligramm literenként",
+  "@milligramsPerLiter": { "description": "Sűrűség: mg/L" },
+
+  "milligramsPerDeciliter": "Milligramm deciliterenként",
+  "@milligramsPerDeciliter": { "description": "Sűrűség: mg/dL" },
+
+  "milligramsPerMilliliter": "Milligramm milliliterenként",
+  "@milligramsPerMilliliter": { "description": "Sűrűség: mg/mL" },
+
+  "milligramsPerCubicMeter": "Milligramm köbméterenként",
+  "@milligramsPerCubicMeter": { "description": "Sűrűség: mg/m³" },
+
+  "milligramsPerCubicCentimeter": "Milligramm köbcentiméterenként",
+  "@milligramsPerCubicCentimeter": { "description": "Sűrűség: mg/cm³" },
+
+  "microgramsPerLiter": "Mikrogramm literenként",
+  "@microgramsPerLiter": { "description": "Sűrűség: µg/L" },
+
+  "microgramsPerDeciliter": "Mikrogramm deciliterenként",
+  "@microgramsPerDeciliter": { "description": "Sűrűség: µg/dL" },
+
+  "microgramsPerMilliliter": "Mikrogramm milliliterenként",
+  "@microgramsPerMilliliter": { "description": "Sűrűség: µg/mL" },
+
+  "poundsPerCubicInches": "Font köbhüvelykenként",
+  "@poundsPerCubicInches": { "description": "Sűrűség: lb/in³" },
+
+  "poundsPerCubicFeet": "Font köblábanként",
+  "@poundsPerCubicFeet": { "description": "Sűrűség: lb/ft³" },
+
+  "cubicMeters": "Köbméter",
+  "@cubicMeters": { "description": "Térfogat: köbméter" },
+
+  "liters": "Liter",
+  "@liters": { "description": "Térfogat: liter" },
+
+  "imperialGallons": "Angol gallon",
+  "@imperialGallons": { "description": "Térfogat: imperial gallon" },
+
+  "usGallons": "USA gallon",
+  "@usGallons": { "description": "Térfogat: US gallon" },
+
+  "imperialPints": "Angol pint",
+  "@imperialPints": { "description": "Térfogat: imperial pint" },
+
+  "usPints": "USA pint",
+  "@usPints": { "description": "Térfogat: US pint" },
+
+  "milliliters": "Milliliter",
+  "@milliliters": { "description": "Térfogat: milliliter" },
+
+  "tablespoonUs": "Evőkanál (USA)",
+  "@tablespoonUs": { "description": "Térfogat: evőkanál (US)" },
+
+  "tablespoonAustralian": "Evőkanál (ausztrál)",
+  "@tablespoonAustralian": { "description": "Térfogat: evőkanál (ausztrál)" },
+
+  "cups": "Csésze",
+  "@cups": { "description": "Térfogat: csésze" },
+
+  "cubicCentimeters": "Köbcentiméter",
+  "@cubicCentimeters": { "description": "Térfogat: köbcentiméter" },
+
+  "cubicFeet": "Köbláb",
+  "@cubicFeet": { "description": "Térfogat: köbláb" },
+
+  "cubicInches": "Köbhüvelyk",
+  "@cubicInches": { "description": "Térfogat: köbhüvelyk" },
+
+  "cubicMillimeters": "Köbmilliméter",
+  "@cubicMillimeters": { "description": "Térfogat: köbmilliméter" },
+
+  "imperialFluidOunces": "Angol folyadék uncia",
+  "@imperialFluidOunces": { "description": "Térfogat: imperial fl oz" },
+
+  "usFluidOunces": "USA folyadék uncia",
+  "@usFluidOunces": { "description": "Térfogat: US fl oz" },
+
+  "imperialGill": "Angol gill",
+  "@imperialGill": { "description": "Térfogat: imperial gill" },
+
+  "usGill": "USA gill",
+  "@usGill": { "description": "Térfogat: US gill" },
+
+  "usQuarts": "USA quart",
+  "@usQuarts": { "description": "Térfogat: US quart" },
+
+  "microliters": "Mikroliter",
+  "@microliters": { "description": "Térfogat: mikroliter" },
+
+  "deciliters": "Deciliter",
+  "@deciliters": { "description": "Térfogat: deciliter" },
+
+  "centiliters": "Centiliter",
+  "@centiliters": { "description": "Térfogat: centiliter" },
+
+  "teaspoonsUs": "Teáskanál (USA)",
+  "@teaspoonsUs": { "description": "Térfogat: teáskanál (US)" },
+
+  "teaspoonsMetric": "Metrikus teáskanál",
+  "@teaspoonsMetric": { "description": "Térfogat: metrikus teáskanál" },
+
+  "seconds": "Másodperc",
+  "@seconds": { "description": "Időegység: másodperc" },
+
+  "deciseconds": "Decimásodperc",
+  "@deciseconds": { "description": "Időegység: decimásodperc" },
+
+  "centiseconds": "Centimásodperc",
+  "@centiseconds": { "description": "Időegység: centimásodperc" },
+
+  "milliseconds": "Milliszekundum",
+  "@milliseconds": { "description": "Időegység: milliszekundum" },
+
+  "microseconds": "Mikroszekundum",
+  "@microseconds": { "description": "Időegység: mikroszekundum" },
+
+  "nanoseconds": "Nanoszekundum",
+  "@nanoseconds": { "description": "Időegység: nanoszekundum" },
+
+  "minutes": "Perc",
+  "@minutes": { "description": "Időegység: perc" },
+
+  "hours": "Óra",
+  "@hours": { "description": "Időegység: óra" },
+
+  "days": "Nap",
+  "@days": { "description": "Időegység: nap" },
+
+  "weeks": "Hét",
+  "@weeks": { "description": "Időegység: hét" },
+
+  "years": "Év (365)",
+  "@years": { "description": "Időegység: 365 napos év" },
+
+  "lustrum": "Ötéves időszak",
+  "@lustrum": { "description": "Időegység: 5 év" },
+
+  "decades": "Évtized",
+  "@decades": { "description": "Időegység: 10 év" },
+
+  "centuries": "Század",
+  "@centuries": { "description": "Időegység: 100 év" },
+
+  "millennium": "Évezred",
+  "@millennium": { "description": "Időegység: 1000 év" },
+
+  "fahrenheit": "Fahrenheit",
+  "@fahrenheit": { "description": "Hőmérsékleti skála: Fahrenheit" },
+
+  "celsius": "Celsius (centigrád)",
+  "@celsius": { "description": "Hőmérsékleti skála: Celsius" },
+
+  "kelvin": "Kelvin",
+  "@kelvin": { "description": "Hőmérsékleti skála: Kelvin" },
+
+  "reamur": "Réaumur",
+  "@reamur": { "description": "Hőmérsékleti skála: Réaumur" },
+
+  "romer": "Rømer",
+  "@romer": { "description": "Hőmérsékleti skála: Rømer" },
+
+  "delisle": "Delisle",
+  "@delisle": { "description": "Hőmérsékleti skála: Delisle" },
+
+  "rankine": "Rankine",
+  "@rankine": { "description": "Hőmérsékleti skála: Rankine" },
+
+  "metersSecond": "Méter/másodperc",
+  "@metersSecond": { "description": "Sebesség: m/s" },
+
+  "kilometersHour": "Kilométer/óra",
+  "@kilometersHour": { "description": "Sebesség: km/h" },
+
+  "milesHour": "Mérföld/óra",
+  "@milesHour": { "description": "Sebesség: mph" },
+
+  "knots": "Csomó",
+  "@knots": { "description": "Sebesség: csomó" },
+
+  "feetSecond": "Láb/másodperc",
+  "@feetSecond": { "description": "Sebesség: ft/s" },
+
+  "minutesPerKilometer": "Perc/kilométer",
+  "@minutesPerKilometer": { "description": "Tempó: perc/km" },
+
+  "minutesPerMile": "Perc/mérföld",
+  "@minutesPerMile": { "description": "Tempó: perc/mérföld" },
+
+  "speedOfLight": "Fénysebesség",
+  "@speedOfLight": { "description": "Sebesség: vákuumbeli fénysebesség" },
+
+  "grams": "Gramm",
+  "@grams": { "description": "Tömeg: gramm" },
+
+  "ettograms": "Hektogramm",
+  "@ettograms": { "description": "Tömeg: hektogramm" },
+
+  "kilograms": "Kilogramm",
+  "@kilograms": { "description": "Tömeg: kilogramm" },
+
+  "pounds": "Font",
+  "@pounds": { "description": "Tömeg: font (lb)" },
+
+  "ounces": "Uncia",
+  "@ounces": { "description": "Tömeg: uncia (oz)" },
+
+  "quintals": "Mázsa",
+  "@quintals": { "description": "Tömeg: mázsa" },
+
+  "tonnes": "Tonna",
+  "@tonnes": { "description": "Tömeg: tonna" },
+
+  "milligrams": "Milligramm",
+  "@milligrams": { "description": "Tömeg: milligramm" },
+
+  "uma": "Egységes atomi tömegegység",
+  "@uma": { "description": "Tömeg: atomic mass unit" },
+
+  "carats": "Karat",
+  "@carats": { "description": "Tömeg: karát" },
+
+  "centigrams": "Centigramm",
+  "@centigrams": { "description": "Tömeg: centigramm" },
+
+  "pennyweights": "Pennyweight",
+  "@pennyweights": { "description": "Tömeg: pennyweight" },
+
+  "troyOunces": "Troy uncia",
+  "@troyOunces": { "description": "Tömeg: troy uncia" },
+
+  "stones": "Stone",
+  "@stones": { "description": "Tömeg: stone" },
+
+  "pascal": "Pascal",
+  "@pascal": { "description": "Nyomás: Pa" },
+
+  "atmosphere": "Atmoszféra",
+  "@atmosphere": { "description": "Nyomás: atm" },
+
+  "bar": "Bar",
+  "@bar": { "description": "Nyomás: bar" },
+
+  "millibar": "Millibar",
+  "@millibar": { "description": "Nyomás: mbar" },
+
+  "psi": "Font/négyzethüvelyk",
+  "@psi": { "description": "Nyomás: psi" },
+
+  "torr": "Higanymilliméter (Torr)",
+  "@torr": { "description": "Nyomás: Torr" },
+
+  "hectoPascal": "Hektopascal",
+  "@hectoPascal": { "description": "Nyomás: hPa" },
+
+  "inchesOfMercury": "Higanyhüvelyk",
+  "@inchesOfMercury": { "description": "Nyomás: inHg" },
+
+  "kiloPascal": "Kilopascal",
+  "@kiloPascal": { "description": "Nyomás: kPa" },
+
+  "ksi": "Kilofont/négyzethüvelyk",
+  "@ksi": { "description": "Nyomás: ksi" },
+
+  "megaPascal": "Megapascal",
+  "@megaPascal": { "description": "Nyomás: MPa" },
+
+  "gigaPascal": "Gigapascal",
+  "@gigaPascal": { "description": "Nyomás: GPa" },
+
+  "joule": "Joule",
+  "@joule": { "description": "Energia: joule" },
+
+  "calories": "Kalória",
+  "@calories": { "description": "Energia: kalória" },
+
+  "kilowattHour": "Kilowattóra",
+  "@kilowattHour": { "description": "Energia: kWh" },
+
+  "electronvolt": "Elektronvolt",
+  "@electronvolt": { "description": "Energia: eV" },
+
+  "footPound": "Láb-font",
+  "@footPound": { "description": "Energia: foot-pound" },
+
+  "kilocalories": "Kilokalória",
+  "@kilocalories": { "description": "Energia: kcal" },
+
+  "kilojoules": "Kilojoule",
+  "@kilojoules": { "description": "Energia: kJ" },
+
+  "watthour": "Wattóra",
+  "@watthour": { "description": "Energia: Wh" },
+
+  "britishThermalUnit": "Brit hőegység (BTU)",
+  "@britishThermalUnit": { "description": "Energia: BTU" },
+
+  "degree": "Fok",
+  "@degree": { "description": "Szög: fok" },
+
+  "minutesDegree": "Szögperc",
+  "@minutesDegree": { "description": "Szög: ívperc" },
+
+  "secondsDegree": "Szögmásodperc",
+  "@secondsDegree": { "description": "Szög: ívmásodperc" },
+
+  "radiansDegree": "Radián",
+  "@radiansDegree": { "description": "Szög: radián" },
+
+  "usd": "USA dollár",
+  "@usd": { "description": "Valuta: USD" },
+
+  "eur": "Euró",
+  "@eur": { "description": "Valuta: EUR" },
+
+  "gbp": "Brit font",
+  "@gbp": { "description": "Valuta: GBP" },
+
+  "inr": "Indiai rúpia",
+  "@inr": { "description": "Valuta: INR" },
+
+  "cny": "Kínai jüan",
+  "@cny": { "description": "Valuta: CNY" },
+
+  "jpy": "Japán jen",
+  "@jpy": { "description": "Valuta: JPY" },
+
+  "chf": "Svájci frank",
+  "@chf": { "description": "Valuta: CHF" },
+
+  "sek": "Svéd korona",
+  "@sek": { "description": "Valuta: SEK" },
+
+  "rub": "Orosz rubel",
+  "@rub": { "description": "Valuta: RUB" },
+
+  "cad": "Kanadai dollár",
+  "@cad": { "description": "Valuta: CAD" },
+
+  "krw": "Dél-koreai von",
+  "@krw": { "description": "Valuta: KRW" },
+
+  "brl": "Brazil reál",
+  "@brl": { "description": "Valuta: BRL" },
+
+  "hkd": "Hongkongi dollár",
+  "@hkd": { "description": "Valuta: HKD" },
+
+  "aud": "Ausztrál dollár",
+  "@aud": { "description": "Valuta: AUD" },
+
+  "nzd": "Új-zélandi dollár",
+  "@nzd": { "description": "Valuta: NZD" },
+
+  "mxn": "Mexikói peso",
+  "@mxn": { "description": "Valuta: MXN" },
+
+  "sgd": "Szingapúri dollár",
+  "@sgd": { "description": "Valuta: SGD" },
+
+  "nok": "Norvég korona",
+  "@nok": { "description": "Valuta: NOK" },
+
+  "trY": "Török líra",
+  "@trY": { "description": "Valuta: TRY" },
+
+  "zar": "Dél-afrikai rand",
+  "@zar": { "description": "Valuta: ZAR" },
+
+  "dkk": "Dán korona",
+  "@dkk": { "description": "Valuta: DKK" },
+
+  "pln": "Lengyel zloty",
+  "@pln": { "description": "Valuta: PLN" },
+
+  "thb": "Thai bát",
+  "@thb": { "description": "Valuta: THB" },
+
+  "myr": "Maláj ringgit",
+  "@myr": { "description": "Valuta: MYR" },
+
+  "huf": "Magyar forint",
+  "@huf": { "description": "Valuta: HUF" },
+
+  "czk": "Cseh korona",
+  "@czk": { "description": "Valuta: CZK" },
+
+  "ils": "Izraeli sékel",
+  "@ils": { "description": "Valuta: ILS" },
+
+  "idr": "Indonéz rúpia",
+  "@idr": { "description": "Valuta: IDR" },
+
+  "php": "Fülöp-szigeteki peso",
+  "@php": { "description": "Valuta: PHP" },
+
+  "ron": "Román lej",
+  "@ron": { "description": "Valuta: RON" },
+
+  "isk": "Izlandi korona",
+  "@isk": { "description": "Valuta: ISK" },
+
+  "twd": "Új tajvani dollár",
+  "@twd": { "description": "Valuta: TWD" },
+
+  "mad": "Marokkói dirham",
+  "@mad": { "description": "Valuta: MAD" },
+
+  "euChina": "EU és Kína",
+  "@euChina": { "description": "Cipőméret csoport: EU & Kína" },
+
+  "ukIndiaChild": "Egyesült Királyság és India – gyerek",
+  "@ukIndiaChild": { "description": "Cipőméret: UK & India – gyerek" },
+
+  "ukIndiaMan": "Egyesült Királyság és India – férfi",
+  "@ukIndiaMan": { "description": "Cipőméret: UK & India – férfi" },
+
+  "ukIndiaWoman": "Egyesült Királyság és India – nő",
+  "@ukIndiaWoman": { "description": "Cipőméret: UK & India – nő" },
+
+  "usaCanadaChild": "USA és Kanada – gyerek",
+  "@usaCanadaChild": { "description": "Cipőméret: USA & Kanada – gyerek" },
+
+  "usaCanadaMan": "USA és Kanada – férfi",
+  "@usaCanadaMan": { "description": "Cipőméret: USA & Kanada – férfi" },
+
+  "usaCanadaWoman": "USA és Kanada – nő",
+  "@usaCanadaWoman": { "description": "Cipőméret: USA & Kanada – nő" },
+
+  "japan": "Japán",
+  "@japan": { "description": "Cipőméret: Japán" },
+
+  "watt": "Watt",
+  "@watt": { "description": "Teljesítmény: W" },
+
+  "milliwatt": "Milliwatt",
+  "@milliwatt": { "description": "Teljesítmény: mW" },
+
+  "kilowatt": "Kilowatt",
+  "@kilowatt": { "description": "Teljesítmény: kW" },
+
+  "megawatt": "Megawatt",
+  "@megawatt": { "description": "Teljesítmény: MW" },
+
+  "gigawatt": "Gigawatt",
+  "@gigawatt": { "description": "Teljesítmény: GW" },
+
+  "europeanHorsePower": "Európai lóerő",
+  "@europeanHorsePower": { "description": "Teljesítmény: metrikus lóerő" },
+
+  "imperialHorsePower": "Angol lóerő",
+  "@imperialHorsePower": { "description": "Teljesítmény: imperial lóerő" },
+
+  "newton": "Newton",
+  "@newton": { "description": "Erő: N" },
+
+  "dyne": "Dine",
+  "@dyne": { "description": "Erő: dyn" },
+
+  "poundForce": "Font-erő",
+  "@poundForce": { "description": "Erő: lbf" },
+
+  "kilogramForce": "Kilogramm-erő",
+  "@kilogramForce": { "description": "Erő: kgf" },
+
+  "poundal": "Poundal",
+  "@poundal": { "description": "Erő: pdl" },
+
+  "newtonMeter": "Newtonméter",
+  "@newtonMeter": { "description": "Nyomaték: N·m" },
+
+  "dyneMeter": "Dineméter",
+  "@dyneMeter": { "description": "Nyomaték: dyn·m" },
+
+  "poundForceFeet": "Font-erő láb",
+  "@poundForceFeet": { "description": "Nyomaték: lbf·ft" },
+
+  "kilogramForceMeter": "Kilogramm-erő méter",
+  "@kilogramForceMeter": { "description": "Nyomaték: kgf·m" },
+
+  "poundalMeter": "Poundal méter",
+  "@poundalMeter": { "description": "Nyomaték: pdl·m" },
+
+  "poundForceInch": "Font-erő hüvelyk",
+  "@poundForceInch": { "description": "Nyomaték: lbf·in" },
+
+  "kilometersLiter": "Kilométer/liter",
+  "@kilometersLiter": { "description": "Fogyasztás: km/L" },
+
+  "liters100km": "Liter/100 km",
+  "@liters100km": { "description": "Fogyasztás: L/100 km" },
+
+  "milesUsGallon": "Mérföld/USA gallon",
+  "@milesUsGallon": { "description": "Fogyasztás: mpg (US)" },
+
+  "milesImperialGallon": "Mérföld/angol gallon",
+  "@milesImperialGallon": { "description": "Fogyasztás: mpg (imperial)" },
+
+  "decimal": "Decimális",
+  "@decimal": { "description": "Számrendszer: decimális" },
+
+  "hexadecimal": "Hexadecimális",
+  "@hexadecimal": { "description": "Számrendszer: hexadecimális" },
+
+  "octal": "Oktális",
+  "@octal": { "description": "Számrendszer: oktális" },
+
+  "binary": "Bináris",
+  "@binary": { "description": "Számrendszer: bináris" },
+
+  "bit": "Bit",
+  "@bit": { "description": "Digitális adat: bit" },
+
+  "nibble": "Nibble",
+  "@nibble": { "description": "Digitális adat: nibble (4 bit)" },
+
+  "kilobit": "Kilobit (decimális)",
+  "@kilobit": { "description": "Digitális adat: kb (10³)" },
+
+  "megabit": "Megabit (decimális)",
+  "@megabit": { "description": "Digitális adat: Mb (10⁶)" },
+
+  "gigabit": "Gigabit (decimális)",
+  "@gigabit": { "description": "Digitális adat: Gb (10⁹)" },
+
+  "terabit": "Terabit (decimális)",
+  "@terabit": { "description": "Digitális adat: Tb (10¹²)" },
+
+  "petabit": "Petabit (decimális)",
+  "@petabit": { "description": "Digitális adat: Pb (10¹⁵)" },
+
+  "exabit": "Exabit (decimális)",
+  "@exabit": { "description": "Digitális adat: Eb (10¹⁸)" },
+
+  "kibibit": "Kibibit",
+  "@kibibit": { "description": "Digitális adat: Kibit (2¹⁰)" },
+
+  "mebibit": "Mebibit",
+  "@mebibit": { "description": "Digitális adat: Mibit (2²⁰)" },
+
+  "gibibit": "Gibibit",
+  "@gibibit": { "description": "Digitális adat: Gibit (2³⁰)" },
+
+  "tebibit": "Tebibit",
+  "@tebibit": { "description": "Digitális adat: Tibit (2⁴⁰)" },
+
+  "pebibit": "Pebibit",
+  "@pebibit": { "description": "Digitális adat: Pibit (2⁵⁰)" },
+
+  "exbibit": "Exbibit",
+  "@exbibit": { "description": "Digitális adat: Eibit (2⁶⁰)" },
+
+  "byte": "Byte",
+  "@byte": { "description": "Digitális adat: byte" },
+
+  "kilobyte": "Kilobájt (decimális)",
+  "@kilobyte": { "description": "Digitális adat: kB (10³)" },
+
+  "megabyte": "Megabájt (decimális)",
+  "@megabyte": { "description": "Digitális adat: MB (10⁶)" },
+
+  "gigabyte": "Gigabájt (decimális)",
+  "@gigabyte": { "description": "Digitális adat: GB (10⁹)" },
+
+  "terabyte": "Terabájt (decimális)",
+  "@terabyte": { "description": "Digitális adat: TB (10¹²)" },
+
+  "petabyte": "Petabájt (decimális)",
+  "@petabyte": { "description": "Digitális adat: PB (10¹⁵)" },
+
+  "exabyte": "Exabájt (decimális)",
+  "@exabyte": { "description": "Digitális adat: EB (10¹⁸)" },
+
+  "kibibyte": "Kibibájt",
+  "@kibibyte": { "description": "Digitális adat: KiB (2¹⁰)" },
+
+  "mebibyte": "Mebibájt",
+  "@mebibyte": { "description": "Digitális adat: MiB (2²⁰)" },
+
+  "gibibyte": "Gibibájt",
+  "@gibibyte": { "description": "Digitális adat: GiB (2³⁰)" },
+
+  "tebibyte": "Tebibájt",
+  "@tebibyte": { "description": "Digitális adat: TiB (2⁴⁰)" },
+
+  "pebibyte": "Pebibájt",
+  "@pebibyte": { "description": "Digitális adat: PiB (2⁵⁰)" },
+
+  "exbibyte": "Exbibájt",
+  "@exbibyte": { "description": "Digitális adat: EiB (2⁶⁰)" },
+
+  "base": "Alap",
+  "@base": { "description": "SI előtag: 10⁰" },
+
+  "deca": "Deka-",
+  "@deca": { "description": "SI előtag: 10¹" },
+
+  "hecto": "Hekto-",
+  "@hecto": { "description": "SI előtag: 10²" },
+
+  "kilo": "Kilo-",
+  "@kilo": { "description": "SI előtag: 10³" },
+
+  "mega": "Mega-",
+  "@mega": { "description": "SI előtag: 10⁶" },
+
+  "giga": "Giga-",
+  "@giga": { "description": "SI előtag: 10⁹" },
+
+  "tera": "Tera-",
+  "@tera": { "description": "SI előtag: 10¹²" },
+
+  "peta": "Peta-",
+  "@peta": { "description": "SI előtag: 10¹⁵" },
+
+  "exa": "Exa-",
+  "@exa": { "description": "SI előtag: 10¹⁸" },
+
+  "zetta": "Zetta-",
+  "@zetta": { "description": "SI előtag: 10²¹" },
+
+  "yotta": "Yotta-",
+  "@yotta": { "description": "SI előtag: 10²⁴" },
+
+  "deci": "Deci-",
+  "@deci": { "description": "SI előtag: 10⁻¹" },
+
+  "centi": "Centi-",
+  "@centi": { "description": "SI előtag: 10⁻²" },
+
+  "milli": "Milli-",
+  "@milli": { "description": "SI előtag: 10⁻³" },
+
+  "micro": "Mikro-",
+  "@micro": { "description": "SI előtag: 10⁻⁶" },
+
+  "nano": "Nano-",
+  "@nano": { "description": "SI előtag: 10⁻⁹" },
+
+  "pico": "Piko-",
+  "@pico": { "description": "SI előtag: 10⁻¹²" },
+
+  "femto": "Femto-",
+  "@femto": { "description": "SI előtag: 10⁻¹⁵" },
+
+  "atto": "Atto-",
+  "@atto": { "description": "SI előtag: 10⁻¹⁸" },
+
+  "zepto": "Zepto-",
+  "@zepto": { "description": "SI előtag: 10⁻²¹" },
+
+  "yocto": "Jokto-",
+  "@yocto": { "description": "SI előtag: 10⁻²⁴" }
+}
